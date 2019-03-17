@@ -1,0 +1,4501 @@
+[{
+	"NodeId": 2198,
+	"NodeParentId": 2,
+	"NodeName": "新人教A版",
+	"IsHaveChild": true,
+	"NodeLevel": 1,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2204,
+	"NodeParentId": 2198,
+	"NodeName": "必修1",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2205,
+	"NodeParentId": 2198,
+	"NodeName": "必修2",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2206,
+	"NodeParentId": 2198,
+	"NodeName": "必修3",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2207,
+	"NodeParentId": 2198,
+	"NodeName": "必修4",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2208,
+	"NodeParentId": 2198,
+	"NodeName": "必修5",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2209,
+	"NodeParentId": 2198,
+	"NodeName": "选修1-1",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2210,
+	"NodeParentId": 2198,
+	"NodeName": "选修1-2",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2211,
+	"NodeParentId": 2198,
+	"NodeName": "选修2-1",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2212,
+	"NodeParentId": 2198,
+	"NodeName": "选修2-2",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2213,
+	"NodeParentId": 2198,
+	"NodeName": "选修2-3",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2214,
+	"NodeParentId": 2198,
+	"NodeName": "选修4-1",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2215,
+	"NodeParentId": 2198,
+	"NodeName": "选修4-2",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2216,
+	"NodeParentId": 2198,
+	"NodeName": "选修4-4",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2217,
+	"NodeParentId": 2198,
+	"NodeName": "选修4-5",
+	"IsHaveChild": true,
+	"NodeLevel": 2,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2218,
+	"NodeParentId": 2204,
+	"NodeName": "第一章 集合与函数概念",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2219,
+	"NodeParentId": 2204,
+	"NodeName": "第二章 基本初等函数（I）",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2220,
+	"NodeParentId": 2204,
+	"NodeName": "第三章 函数的应用",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2221,
+	"NodeParentId": 2218,
+	"NodeName": "1.1 集合",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2222,
+	"NodeParentId": 2218,
+	"NodeName": "1.2 函数及其表示",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2223,
+	"NodeParentId": 2218,
+	"NodeName": "1.3 函数的基本性质",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2224,
+	"NodeParentId": 2218,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2225,
+	"NodeParentId": 2221,
+	"NodeName": "1.1.1 集合的含义与表示",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2226,
+	"NodeParentId": 2221,
+	"NodeName": "1.1.2 集合间的基本关系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2227,
+	"NodeParentId": 2221,
+	"NodeName": "1.1.3 集合的基本运算",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2228,
+	"NodeParentId": 2222,
+	"NodeName": "1.2.1 函数的概念",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2229,
+	"NodeParentId": 2222,
+	"NodeName": "1.2.2 函数的表示法",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2230,
+	"NodeParentId": 2223,
+	"NodeName": "1.3.1 单调性与最大(小)值",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2231,
+	"NodeParentId": 2223,
+	"NodeName": "1.3.2 奇偶性",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2232,
+	"NodeParentId": 2223,
+	"NodeName": "1.3.3 小节综合",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2233,
+	"NodeParentId": 2219,
+	"NodeName": "2.1 指数函数",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2234,
+	"NodeParentId": 2219,
+	"NodeName": "2.2 对数函数",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2235,
+	"NodeParentId": 2219,
+	"NodeName": "2.3 幂函数",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2236,
+	"NodeParentId": 2219,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2237,
+	"NodeParentId": 2233,
+	"NodeName": "2.1.1 指数与指数幂的运算",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2238,
+	"NodeParentId": 2233,
+	"NodeName": "2.1.2 指数函数及其性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2239,
+	"NodeParentId": 2234,
+	"NodeName": "2.2.1 对数与对数运算",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2240,
+	"NodeParentId": 2234,
+	"NodeName": "2.2.2 对数函数及其性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2241,
+	"NodeParentId": 2234,
+	"NodeName": "2.2.3 对数函数的性质与应用",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2242,
+	"NodeParentId": 2220,
+	"NodeName": "3.1 函数与方程",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2243,
+	"NodeParentId": 2220,
+	"NodeName": "3.2 函数模型及其应用",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2244,
+	"NodeParentId": 2220,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2245,
+	"NodeParentId": 2242,
+	"NodeName": "3.1.1 方程的根与函数的零点",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2246,
+	"NodeParentId": 2242,
+	"NodeName": "3.1.2 用二分法求方程的近似解",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2247,
+	"NodeParentId": 2243,
+	"NodeName": "3.2.1 几类不同增长的函数模型",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2248,
+	"NodeParentId": 2243,
+	"NodeName": "3.2.2 函数模型的应用实例",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2249,
+	"NodeParentId": 2205,
+	"NodeName": "第一章 空间几何体",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2250,
+	"NodeParentId": 2205,
+	"NodeName": "第二章 点、直线、平面之间的位置关系",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2251,
+	"NodeParentId": 2205,
+	"NodeName": "第三章 直线与方程",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2252,
+	"NodeParentId": 2205,
+	"NodeName": "第四章 圆与方程",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2253,
+	"NodeParentId": 2249,
+	"NodeName": "1.1 空间几何体的结构",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2254,
+	"NodeParentId": 2249,
+	"NodeName": "1.2 空间几何体的三视图和直观图",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2255,
+	"NodeParentId": 2249,
+	"NodeName": "1.3 空间几何体的表面积与体积",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2256,
+	"NodeParentId": 2249,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2257,
+	"NodeParentId": 2250,
+	"NodeName": "2.1 空间点、直线、平面之间的位置关系",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2258,
+	"NodeParentId": 2250,
+	"NodeName": "2.2 直线、平面平行的判定及其性质",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2259,
+	"NodeParentId": 2250,
+	"NodeName": "2.3 直线、平面垂直的判定及其性质",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2260,
+	"NodeParentId": 2250,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2261,
+	"NodeParentId": 2251,
+	"NodeName": "3.1 直线的倾斜角与斜率",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2262,
+	"NodeParentId": 2251,
+	"NodeName": "3.2 直线的方程",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2263,
+	"NodeParentId": 2251,
+	"NodeName": "3.3 直线的交点坐标与距离公式",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2264,
+	"NodeParentId": 2251,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2265,
+	"NodeParentId": 2252,
+	"NodeName": "4.1 圆的方程",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2266,
+	"NodeParentId": 2252,
+	"NodeName": "4.2 直线、圆的位置关系",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2267,
+	"NodeParentId": 2252,
+	"NodeName": "4.3 空间直角坐标系",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2268,
+	"NodeParentId": 2252,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2269,
+	"NodeParentId": 2206,
+	"NodeName": "第一章 算法初步",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2270,
+	"NodeParentId": 2206,
+	"NodeName": "第二章 统计",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2271,
+	"NodeParentId": 2206,
+	"NodeName": "第三章 概率",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2272,
+	"NodeParentId": 2269,
+	"NodeName": "1.1 算法与程序框图",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2273,
+	"NodeParentId": 2269,
+	"NodeName": "1.2 基本算法语句",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2274,
+	"NodeParentId": 2269,
+	"NodeName": "1.3 算法案例",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2275,
+	"NodeParentId": 2269,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2276,
+	"NodeParentId": 2272,
+	"NodeName": "1.1.1 算法的概念",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2277,
+	"NodeParentId": 2272,
+	"NodeName": "1.1.2 程序框图和算法的基本逻辑结构",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2278,
+	"NodeParentId": 2273,
+	"NodeName": "1.2.1 输入语句、输出语句和赋值语句",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2279,
+	"NodeParentId": 2273,
+	"NodeName": "1.2.2 条件语句",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2280,
+	"NodeParentId": 2273,
+	"NodeName": "1.2.3 循环语句",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2281,
+	"NodeParentId": 2270,
+	"NodeName": "2.1 随机抽样",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2282,
+	"NodeParentId": 2270,
+	"NodeName": "2.2 用样本估计总体",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2283,
+	"NodeParentId": 2270,
+	"NodeName": "2.3 变量间的相关关系",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2284,
+	"NodeParentId": 2270,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2285,
+	"NodeParentId": 2281,
+	"NodeName": "2.1.1 简单随机抽样",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2286,
+	"NodeParentId": 2281,
+	"NodeName": "2.1.2 系统抽样",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2287,
+	"NodeParentId": 2281,
+	"NodeName": "2.1.3 分层抽样",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2288,
+	"NodeParentId": 2282,
+	"NodeName": "2.2.1 用样本的频率分布估计总体分布",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2289,
+	"NodeParentId": 2282,
+	"NodeName": "2.2.2 用样本的数字特征估计总体的数字特征",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2290,
+	"NodeParentId": 2283,
+	"NodeName": "2.3.1 变量之间的相关关系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2291,
+	"NodeParentId": 2283,
+	"NodeName": "2.3.2 两个变量的线性相关",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2292,
+	"NodeParentId": 2271,
+	"NodeName": "3.1 随机事件的概率",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2293,
+	"NodeParentId": 2271,
+	"NodeName": "3.2 古典概型",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2294,
+	"NodeParentId": 2271,
+	"NodeName": "3.3 几何概型",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2295,
+	"NodeParentId": 2271,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2296,
+	"NodeParentId": 2292,
+	"NodeName": "3.1.1 随机事件的概率",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2297,
+	"NodeParentId": 2292,
+	"NodeName": "3.1.2 概率的意义",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2298,
+	"NodeParentId": 2292,
+	"NodeName": "3.1.3 概率的基本性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2299,
+	"NodeParentId": 2293,
+	"NodeName": "3.2.1 古典概型",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2300,
+	"NodeParentId": 2293,
+	"NodeName": "3.2.2 （整数值）随机数（random numbers）的产生",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2301,
+	"NodeParentId": 2294,
+	"NodeName": "3.3.1 几何概型",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2302,
+	"NodeParentId": 2294,
+	"NodeName": "3.3.2 均匀随机数的产生",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2303,
+	"NodeParentId": 2207,
+	"NodeName": "第一章 三角函数",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2304,
+	"NodeParentId": 2207,
+	"NodeName": "第二章 平面向量",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2305,
+	"NodeParentId": 2207,
+	"NodeName": "第三章 三角恒等变换",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2306,
+	"NodeParentId": 2303,
+	"NodeName": "1.1 任意角和弧度制",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2307,
+	"NodeParentId": 2303,
+	"NodeName": "1.2 任意角的三角函数",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2308,
+	"NodeParentId": 2303,
+	"NodeName": "1.3 三角函数的诱导公式",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2309,
+	"NodeParentId": 2303,
+	"NodeName": "1.4 三角函数的图象与性质",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2310,
+	"NodeParentId": 2303,
+	"NodeName": "1.5 函数y=Asin(ωx+Ψ)的图象",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2311,
+	"NodeParentId": 2303,
+	"NodeName": "1.6 三角函数模型的简单应用",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2312,
+	"NodeParentId": 2303,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2313,
+	"NodeParentId": 2304,
+	"NodeName": "2.1 平面向量的实际背景及基本概念",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2314,
+	"NodeParentId": 2304,
+	"NodeName": "2.2 平面向量的线性运算",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2315,
+	"NodeParentId": 2304,
+	"NodeName": "2.3 平面向量的基本定理及坐标表示",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2316,
+	"NodeParentId": 2304,
+	"NodeName": "2.4 平面向量的数量积",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2317,
+	"NodeParentId": 2304,
+	"NodeName": "2.5 平面向量应用举例",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2318,
+	"NodeParentId": 2304,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2319,
+	"NodeParentId": 2305,
+	"NodeName": "3.1 两角和与差的正弦、余弦和正切公式",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2320,
+	"NodeParentId": 2305,
+	"NodeName": "3.2 简单的三角恒等变换",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2321,
+	"NodeParentId": 2305,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2322,
+	"NodeParentId": 2208,
+	"NodeName": "第一章 解三角形",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2323,
+	"NodeParentId": 2208,
+	"NodeName": "第二章 数列",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2324,
+	"NodeParentId": 2208,
+	"NodeName": "第三章 不等式",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2325,
+	"NodeParentId": 2322,
+	"NodeName": "1.1 正弦定理和余弦定理",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2326,
+	"NodeParentId": 2322,
+	"NodeName": "1.2 应用举例",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2327,
+	"NodeParentId": 2322,
+	"NodeName": "1.3 实习作业",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2328,
+	"NodeParentId": 2322,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2329,
+	"NodeParentId": 2323,
+	"NodeName": "2.1 数列的概念与简单表示法",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2330,
+	"NodeParentId": 2323,
+	"NodeName": "2.2 等差数列",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2331,
+	"NodeParentId": 2323,
+	"NodeName": "2.3 等差数列的前n项和",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2332,
+	"NodeParentId": 2323,
+	"NodeName": "2.4 等比数列",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2333,
+	"NodeParentId": 2323,
+	"NodeName": "2.5 等比数列的前n项和",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2334,
+	"NodeParentId": 2323,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2335,
+	"NodeParentId": 2324,
+	"NodeName": "3.1 不等关系与不等式",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2336,
+	"NodeParentId": 2324,
+	"NodeName": "3.2 一元二次不等式及其解法",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2337,
+	"NodeParentId": 2324,
+	"NodeName": "3.3 二元一次不等式(组)与简单的线性规划问题",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2338,
+	"NodeParentId": 2324,
+	"NodeName": "3.4 基本不等式",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2339,
+	"NodeParentId": 2324,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2340,
+	"NodeParentId": 2209,
+	"NodeName": "第一章 常用逻辑用语",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2341,
+	"NodeParentId": 2209,
+	"NodeName": "第二章 圆锥曲线与方程",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2342,
+	"NodeParentId": 2209,
+	"NodeName": "第三章 导数及其应用",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2343,
+	"NodeParentId": 2340,
+	"NodeName": "1.1 命题及其关系",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2344,
+	"NodeParentId": 2340,
+	"NodeName": "1.2 充分条件与必要条件",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2345,
+	"NodeParentId": 2340,
+	"NodeName": "1.3 简单的逻辑联结词",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2346,
+	"NodeParentId": 2340,
+	"NodeName": "1.4 全称量词与存在量词",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2347,
+	"NodeParentId": 2340,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2348,
+	"NodeParentId": 2341,
+	"NodeName": "2.1 椭圆",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2349,
+	"NodeParentId": 2341,
+	"NodeName": "2.2 双曲线",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2350,
+	"NodeParentId": 2341,
+	"NodeName": "2.3 抛物线",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2351,
+	"NodeParentId": 2341,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2352,
+	"NodeParentId": 2342,
+	"NodeName": "3.1 变化率与导数",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2353,
+	"NodeParentId": 2342,
+	"NodeName": "3.2 导数的计算",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2354,
+	"NodeParentId": 2342,
+	"NodeName": "3.3 导数在研究函数中的应用",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2355,
+	"NodeParentId": 2342,
+	"NodeName": "3.4 生活中的优化问题举例",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2356,
+	"NodeParentId": 2342,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2357,
+	"NodeParentId": 2210,
+	"NodeName": "第一章 统计案例",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2358,
+	"NodeParentId": 2210,
+	"NodeName": "第二章 推理与证明",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2359,
+	"NodeParentId": 2210,
+	"NodeName": "第三章 数系的扩充与复数的引入",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2360,
+	"NodeParentId": 2210,
+	"NodeName": "第四章 框图",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2361,
+	"NodeParentId": 2357,
+	"NodeName": "1.1 回归分析的基本思想及其初步应用",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2362,
+	"NodeParentId": 2357,
+	"NodeName": "1.2 独立性检验的基本思想及其初步应用",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2363,
+	"NodeParentId": 2357,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2364,
+	"NodeParentId": 2358,
+	"NodeName": "2.1 合情推理与演绎证明",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2365,
+	"NodeParentId": 2358,
+	"NodeName": "2.2 直接证明与间接证明",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2366,
+	"NodeParentId": 2358,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2367,
+	"NodeParentId": 2359,
+	"NodeName": "3.1 数系的扩充和复数的概念",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2368,
+	"NodeParentId": 2359,
+	"NodeName": "3.2 复数代数形式的四则运算",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2369,
+	"NodeParentId": 2359,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2370,
+	"NodeParentId": 2360,
+	"NodeName": "4.1 流程图",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2371,
+	"NodeParentId": 2360,
+	"NodeName": "4.2 结构图",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2372,
+	"NodeParentId": 2360,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2373,
+	"NodeParentId": 2211,
+	"NodeName": "第一章 常用逻辑用语",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2374,
+	"NodeParentId": 2211,
+	"NodeName": "第二章 圆锥曲线与方程",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2375,
+	"NodeParentId": 2211,
+	"NodeName": "第三章 空间向量与立体几何",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2376,
+	"NodeParentId": 2373,
+	"NodeName": "1.1 命题及其关系",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2377,
+	"NodeParentId": 2373,
+	"NodeName": "1.2 充分条件与必要条件",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2378,
+	"NodeParentId": 2373,
+	"NodeName": "1.3 简单的逻辑联结词",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2379,
+	"NodeParentId": 2373,
+	"NodeName": "1.4 全称量词与存在量词",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2380,
+	"NodeParentId": 2373,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2381,
+	"NodeParentId": 2374,
+	"NodeName": "2.1 曲线与方程",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2382,
+	"NodeParentId": 2374,
+	"NodeName": "2.2 椭圆",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2383,
+	"NodeParentId": 2374,
+	"NodeName": "2.3 双曲线",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2384,
+	"NodeParentId": 2374,
+	"NodeName": "2.4 抛物线",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2385,
+	"NodeParentId": 2374,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2386,
+	"NodeParentId": 2375,
+	"NodeName": "3.1 空间向量及其运算",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2387,
+	"NodeParentId": 2375,
+	"NodeName": "3.2 立体几何中的向量方法",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2388,
+	"NodeParentId": 2375,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2389,
+	"NodeParentId": 2212,
+	"NodeName": "第一章 导数及其应用",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2390,
+	"NodeParentId": 2212,
+	"NodeName": "第二章 推理与证明",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2391,
+	"NodeParentId": 2212,
+	"NodeName": "第三章 数系的扩充与复数的引入",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2392,
+	"NodeParentId": 2389,
+	"NodeName": "1.1 变化率与导数",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2393,
+	"NodeParentId": 2389,
+	"NodeName": "1.2 导数的计算",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2394,
+	"NodeParentId": 2389,
+	"NodeName": "1.3 导数在研究函数中的应用",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2395,
+	"NodeParentId": 2389,
+	"NodeName": "1.4 生活中的优化问题举例",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2396,
+	"NodeParentId": 2389,
+	"NodeName": "1.5 定积分的概念",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2397,
+	"NodeParentId": 2389,
+	"NodeName": "1.6 微积分基本定理",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2398,
+	"NodeParentId": 2389,
+	"NodeName": "1.7 定积分的简单应用",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2399,
+	"NodeParentId": 2389,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2400,
+	"NodeParentId": 2390,
+	"NodeName": "2.1 合情推理与演绎推理",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2401,
+	"NodeParentId": 2390,
+	"NodeName": "2.2 直接证明与间接证明",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2402,
+	"NodeParentId": 2390,
+	"NodeName": "2.3 数学归纳法",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2403,
+	"NodeParentId": 2390,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2404,
+	"NodeParentId": 2391,
+	"NodeName": "3.1 数系的扩充和复数的概念",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2405,
+	"NodeParentId": 2391,
+	"NodeName": "3.2 复数代数形式的四则运算",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2406,
+	"NodeParentId": 2391,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2407,
+	"NodeParentId": 2213,
+	"NodeName": "第一章 计数原理",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2408,
+	"NodeParentId": 2213,
+	"NodeName": "第二章 随机变量及其分布",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2409,
+	"NodeParentId": 2213,
+	"NodeName": "第三章 统计案例",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2410,
+	"NodeParentId": 2407,
+	"NodeName": "1.1 分类加法计数原理与分步乘法计数原理",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2411,
+	"NodeParentId": 2407,
+	"NodeName": "1.2 排列与组合",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2412,
+	"NodeParentId": 2407,
+	"NodeName": "1.3 二项式定理",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2413,
+	"NodeParentId": 2407,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2414,
+	"NodeParentId": 2408,
+	"NodeName": "2.1 离散型随机变量及其分布列",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2415,
+	"NodeParentId": 2408,
+	"NodeName": "2.2 二项分布及其应用",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2416,
+	"NodeParentId": 2408,
+	"NodeName": "2.3 离散型随机变量的均值与方差",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2417,
+	"NodeParentId": 2408,
+	"NodeName": "2.4 正态分布",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2418,
+	"NodeParentId": 2408,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2419,
+	"NodeParentId": 2409,
+	"NodeName": "3.1 回归分析的基本思想及其初步应用",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2420,
+	"NodeParentId": 2409,
+	"NodeName": "3.2 独立性检验的基本思想及其初步应用",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2421,
+	"NodeParentId": 2409,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2422,
+	"NodeParentId": 2214,
+	"NodeName": "第一讲 相似三角形的判定及有关性质",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2423,
+	"NodeParentId": 2214,
+	"NodeName": "第二讲 直线与圆的位置关系",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2424,
+	"NodeParentId": 2214,
+	"NodeName": "第三讲 圆锥曲线性质的探讨",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2425,
+	"NodeParentId": 2422,
+	"NodeName": "一 平行线等分线段定理",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2426,
+	"NodeParentId": 2422,
+	"NodeName": "二 平行线分线段成比例定理",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2427,
+	"NodeParentId": 2422,
+	"NodeName": "三 相似三角形的判定及性质",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2428,
+	"NodeParentId": 2422,
+	"NodeName": "四 直角三角形的射影定理",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2431,
+	"NodeParentId": 2423,
+	"NodeName": "一 圆周角定理",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2432,
+	"NodeParentId": 2423,
+	"NodeName": "二 圆内接四边形的性质与判定定理",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2433,
+	"NodeParentId": 2423,
+	"NodeName": "三 圆的切线的性质及判定定理",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2434,
+	"NodeParentId": 2423,
+	"NodeName": "四 弦切角的性质",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2435,
+	"NodeParentId": 2423,
+	"NodeName": "五 与圆有关的比例线段",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2436,
+	"NodeParentId": 2424,
+	"NodeName": "一 平行射影",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2437,
+	"NodeParentId": 2424,
+	"NodeName": "二 平面与圆柱面的截线",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2438,
+	"NodeParentId": 2424,
+	"NodeName": "三 平面与圆锥面的截线",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2439,
+	"NodeParentId": 2215,
+	"NodeName": "第一讲 线性变换与二阶矩阵",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2440,
+	"NodeParentId": 2215,
+	"NodeName": "第二讲 变换的复合与二阶矩阵的乘法",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2441,
+	"NodeParentId": 2215,
+	"NodeName": "第三讲 逆变换与逆矩阵",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2442,
+	"NodeParentId": 2215,
+	"NodeName": "第四讲 变换的不变量与矩阵的特征向量",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2443,
+	"NodeParentId": 2439,
+	"NodeName": "一 线性变换与二阶矩阵",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2444,
+	"NodeParentId": 2439,
+	"NodeName": "二 二阶矩阵与平面向量的乘法",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2445,
+	"NodeParentId": 2439,
+	"NodeName": "三 线性变换的基本性质",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2450,
+	"NodeParentId": 2440,
+	"NodeName": "一 复合变换与二阶矩阵的乘法",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2451,
+	"NodeParentId": 2440,
+	"NodeName": "二 矩阵乘法的性质",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2452,
+	"NodeParentId": 2441,
+	"NodeName": "一 逆变换与逆矩阵",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2453,
+	"NodeParentId": 2441,
+	"NodeName": "二 二阶行列式与逆矩阵",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2454,
+	"NodeParentId": 2441,
+	"NodeName": "三 逆矩阵与二元一次方程组",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2457,
+	"NodeParentId": 2442,
+	"NodeName": "一 变换的不变量—矩阵的特征向量",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2458,
+	"NodeParentId": 2442,
+	"NodeName": "二 特征向量的应用",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2463,
+	"NodeParentId": 2216,
+	"NodeName": "第一讲 坐标系",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2464,
+	"NodeParentId": 2216,
+	"NodeName": "第二讲 参数方程",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2465,
+	"NodeParentId": 2463,
+	"NodeName": "一 平面直角坐标系",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2466,
+	"NodeParentId": 2463,
+	"NodeName": "二 极坐标系",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2467,
+	"NodeParentId": 2463,
+	"NodeName": "三 简单曲线的极坐标方程",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2469,
+	"NodeParentId": 2463,
+	"NodeName": "四 柱坐标系与球坐标系简介",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2470,
+	"NodeParentId": 2463,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2493,
+	"NodeParentId": 2217,
+	"NodeName": "第一讲 不等式和绝对值不等式",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2494,
+	"NodeParentId": 2217,
+	"NodeName": "第二讲 证明不等式的基本方法",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2495,
+	"NodeParentId": 2217,
+	"NodeName": "第三讲 柯西不等式与排序不等式",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2496,
+	"NodeParentId": 2217,
+	"NodeName": "第四讲 用数学归纳法证明不等式",
+	"IsHaveChild": true,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2497,
+	"NodeParentId": 2493,
+	"NodeName": "一 不等式",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2498,
+	"NodeParentId": 2493,
+	"NodeName": "二 绝对值不等式",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2504,
+	"NodeParentId": 2494,
+	"NodeName": "一 比较法",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2505,
+	"NodeParentId": 2494,
+	"NodeName": "二 综合法与分析法",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2506,
+	"NodeParentId": 2494,
+	"NodeName": "三 反证法与放缩法",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2507,
+	"NodeParentId": 2495,
+	"NodeName": "一 二维形式的柯西不等式",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2508,
+	"NodeParentId": 2495,
+	"NodeName": "二 一般形式的柯西不等式",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2509,
+	"NodeParentId": 2495,
+	"NodeName": "三 排序不等式",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2510,
+	"NodeParentId": 2496,
+	"NodeName": "一 数学归纳法",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2511,
+	"NodeParentId": 2496,
+	"NodeName": "二 用数学归纳法证明不等式举例",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37804,
+	"NodeParentId": 2204,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37806,
+	"NodeParentId": 2205,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37808,
+	"NodeParentId": 2206,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37810,
+	"NodeParentId": 2207,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37832,
+	"NodeParentId": 2208,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37834,
+	"NodeParentId": 2209,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37835,
+	"NodeParentId": 2210,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37836,
+	"NodeParentId": 2211,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37837,
+	"NodeParentId": 2212,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37838,
+	"NodeParentId": 2213,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37839,
+	"NodeParentId": 2214,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37840,
+	"NodeParentId": 2215,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37841,
+	"NodeParentId": 2216,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 37842,
+	"NodeParentId": 2217,
+	"NodeName": "总复习",
+	"IsHaveChild": false,
+	"NodeLevel": 3,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39067,
+	"NodeParentId": 2364,
+	"NodeName": "2.1.1 合情推理",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39068,
+	"NodeParentId": 2364,
+	"NodeName": "2.1.2 演绎推理",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39069,
+	"NodeParentId": 2365,
+	"NodeName": "2.2.1 综合法和分析法",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39070,
+	"NodeParentId": 2365,
+	"NodeName": "2.2.2 反证法",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39071,
+	"NodeParentId": 2367,
+	"NodeName": "3.1.1 数系的扩充和复数的概念",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39072,
+	"NodeParentId": 2367,
+	"NodeName": "3.1.2 复数的几何意义",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39073,
+	"NodeParentId": 2368,
+	"NodeName": "3.2.1 复数代数形式的加减运算及其几何意义",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39074,
+	"NodeParentId": 2368,
+	"NodeName": "3.2.2 复数代数形式的乘除运算",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39075,
+	"NodeParentId": 2393,
+	"NodeName": "1.2.1 几个常用函数的导数",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39076,
+	"NodeParentId": 2393,
+	"NodeName": "1.2.2 基本初等函数的导数公式及导数的运算法则",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39077,
+	"NodeParentId": 2394,
+	"NodeName": "1.3.1 函数的单调性与导数",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39078,
+	"NodeParentId": 2394,
+	"NodeName": "1.3.2 函数的极值与导数",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39079,
+	"NodeParentId": 2394,
+	"NodeName": "1.3.3 函数的最大（小）值与导数",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39080,
+	"NodeParentId": 2400,
+	"NodeName": "2.1.1 合情推理",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39081,
+	"NodeParentId": 2400,
+	"NodeName": "2.1.2 演绎推理",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39082,
+	"NodeParentId": 2401,
+	"NodeName": "2.2.1 综合法和分析法",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39083,
+	"NodeParentId": 2401,
+	"NodeName": "2.2.2 反证法",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39084,
+	"NodeParentId": 2404,
+	"NodeName": "3.1.1 数系的扩充和复数的概念",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39085,
+	"NodeParentId": 2404,
+	"NodeName": "3.1.2 复数的几何意义",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39086,
+	"NodeParentId": 2405,
+	"NodeName": "3.2.1 复数代数形式和加、减运算及其几何意义",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39088,
+	"NodeParentId": 2405,
+	"NodeName": "3.2.2 复数代数形式的乘除运算",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39089,
+	"NodeParentId": 2411,
+	"NodeName": "1.2.1 排列",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39090,
+	"NodeParentId": 2411,
+	"NodeName": "1.2.2 组合",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39091,
+	"NodeParentId": 2416,
+	"NodeName": "2.3.1 离散型随机变量的均值",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 39092,
+	"NodeParentId": 2416,
+	"NodeName": "2.3.2 离散型随机变量的方差",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 0,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2479,
+	"NodeParentId": 2464,
+	"NodeName": "一 曲线的参数方程",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53643,
+	"NodeParentId": 2253,
+	"NodeName": "1.1.1柱、锥、台、球的结构特征",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53645,
+	"NodeParentId": 2254,
+	"NodeName": "1.2.1中心投影与平行投影",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53648,
+	"NodeParentId": 2255,
+	"NodeName": "1.3.1柱体、锥体、台体的表面积与体积",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53650,
+	"NodeParentId": 2257,
+	"NodeName": "2.1.1平面",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53653,
+	"NodeParentId": 2258,
+	"NodeName": "2.2.1直线与平面平行的判定",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53657,
+	"NodeParentId": 2259,
+	"NodeName": "2.3.1直线与平面垂直的判定",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53661,
+	"NodeParentId": 2261,
+	"NodeName": "3.1.1倾斜角与斜率",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53663,
+	"NodeParentId": 2262,
+	"NodeName": "3.2.1直线的点斜式方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53666,
+	"NodeParentId": 2263,
+	"NodeName": "3.3.1两条直线的交点坐标",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53670,
+	"NodeParentId": 2265,
+	"NodeName": "4.1.1圆的标准方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53672,
+	"NodeParentId": 2266,
+	"NodeName": "4.2.1直线与圆的位置关系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53675,
+	"NodeParentId": 2267,
+	"NodeName": "4.3.1空间直角坐标系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53677,
+	"NodeParentId": 2306,
+	"NodeName": "1.1.1任意角",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53679,
+	"NodeParentId": 2307,
+	"NodeName": "1.2.1任意角的三角函数",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53681,
+	"NodeParentId": 2309,
+	"NodeName": "1.4.1正弦函数、余弦函数的图像",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53684,
+	"NodeParentId": 2313,
+	"NodeName": "2.1.1向量的物理背景与概念",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53687,
+	"NodeParentId": 2314,
+	"NodeName": "2.2.1向量的加法运算及其几何意义",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53690,
+	"NodeParentId": 2315,
+	"NodeName": "2.3.1平面向量基本定理",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53694,
+	"NodeParentId": 2316,
+	"NodeName": "2.4.1平面向量数量积的物理背景及其含义",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53696,
+	"NodeParentId": 2317,
+	"NodeName": "2.5.1平面向量几何中的向量方法",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53698,
+	"NodeParentId": 2319,
+	"NodeName": "3.1.1两角差的余弦公式",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53701,
+	"NodeParentId": 2325,
+	"NodeName": "1.1.1正弦定理",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53703,
+	"NodeParentId": 2333,
+	"NodeName": "2.5.1 等比数列的前n项和",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53706,
+	"NodeParentId": 2337,
+	"NodeName": "3.3.1二元一次不等式（组）与简单的线性规划问题",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53712,
+	"NodeParentId": 2343,
+	"NodeName": "1.1.1 命题",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53715,
+	"NodeParentId": 2344,
+	"NodeName": "1.2.1 充分条件与必要条件",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53717,
+	"NodeParentId": 2345,
+	"NodeName": "1.3.1 且（and）",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53720,
+	"NodeParentId": 2346,
+	"NodeName": "1.4.1 全称量词",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53723,
+	"NodeParentId": 2348,
+	"NodeName": "2.1.1 椭圆及其标准方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53725,
+	"NodeParentId": 2349,
+	"NodeName": "2.2.1 双曲线及其标准方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53727,
+	"NodeParentId": 2350,
+	"NodeName": "2.3.1 抛物线及其标准方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53729,
+	"NodeParentId": 2352,
+	"NodeName": "3.1.1 变化率问题",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53732,
+	"NodeParentId": 2353,
+	"NodeName": "3.2.1 几个常用函数的导数",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53734,
+	"NodeParentId": 2354,
+	"NodeName": "3.3.1 函数的单调性与导数",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53737,
+	"NodeParentId": 2376,
+	"NodeName": "1.1.1 命题",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53740,
+	"NodeParentId": 2377,
+	"NodeName": "1.2.1 充分条件与必要条件",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53742,
+	"NodeParentId": 2378,
+	"NodeName": "1.3.1 且（and）",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53745,
+	"NodeParentId": 2379,
+	"NodeName": "1.4.1 全称量词",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53748,
+	"NodeParentId": 2381,
+	"NodeName": "2.1.1 曲线与方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53750,
+	"NodeParentId": 2382,
+	"NodeName": "2.1.1 椭圆及其标准方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53752,
+	"NodeParentId": 2383,
+	"NodeName": "2.2.1 双曲线及其标准方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53754,
+	"NodeParentId": 2384,
+	"NodeName": "2.3.1 抛物线及其标准方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53756,
+	"NodeParentId": 2386,
+	"NodeName": "3.1.1 空间向量及其加减运算",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53761,
+	"NodeParentId": 2412,
+	"NodeName": "1.3.1 二项式定理",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53763,
+	"NodeParentId": 2414,
+	"NodeName": "2.1.1 离散型随机变量",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53765,
+	"NodeParentId": 2415,
+	"NodeName": "2.2.1 条件概率",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53768,
+	"NodeParentId": 2465,
+	"NodeName": "1. 平面直角坐标系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53770,
+	"NodeParentId": 2466,
+	"NodeName": "1. 极坐标系的概念",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53772,
+	"NodeParentId": 2467,
+	"NodeName": "1. 圆的极坐标方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53774,
+	"NodeParentId": 2469,
+	"NodeName": "1. 柱坐标系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53776,
+	"NodeParentId": 2479,
+	"NodeName": "1. 参数方程的概念",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53779,
+	"NodeParentId": 2481,
+	"NodeName": "1. 椭圆的参数方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53782,
+	"NodeParentId": 2482,
+	"NodeName": "1. 渐开线",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 1,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2481,
+	"NodeParentId": 2464,
+	"NodeName": "二 圆锥曲线的参数方程",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53644,
+	"NodeParentId": 2253,
+	"NodeName": "1.1.2简单几何体的结构特征",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53646,
+	"NodeParentId": 2254,
+	"NodeName": "1.2.2空间几何体的三视图",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53647,
+	"NodeParentId": 2254,
+	"NodeName": "1.2.3空间几何体的直观图",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53649,
+	"NodeParentId": 2255,
+	"NodeName": "1.3.2球的体积和表面积",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53651,
+	"NodeParentId": 2257,
+	"NodeName": "2.1.2空间中直线与直线之间的位置关系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53654,
+	"NodeParentId": 2258,
+	"NodeName": "2.2.2平面与平面平行的判定",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53658,
+	"NodeParentId": 2259,
+	"NodeName": "2.3.2平面与平面垂直的判定",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53662,
+	"NodeParentId": 2261,
+	"NodeName": "3.1.2两条直线平行与垂直的判定",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53664,
+	"NodeParentId": 2262,
+	"NodeName": "3.2.2直线的两点式方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53667,
+	"NodeParentId": 2263,
+	"NodeName": "3.3.2两点间的距离",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53671,
+	"NodeParentId": 2265,
+	"NodeName": "4.1.2圆的一般方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53673,
+	"NodeParentId": 2266,
+	"NodeName": "4.2.2圆与圆的位置关系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53676,
+	"NodeParentId": 2267,
+	"NodeName": "4.3.2空间两点间的距离公式",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53678,
+	"NodeParentId": 2306,
+	"NodeName": "1.1.2弧度制",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53680,
+	"NodeParentId": 2307,
+	"NodeName": "1.2.2同角三角函数的基本关系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53682,
+	"NodeParentId": 2309,
+	"NodeName": "1.4.2正弦函数、余弦函数的性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53685,
+	"NodeParentId": 2313,
+	"NodeName": "2.1.2向量的几何表示",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53688,
+	"NodeParentId": 2314,
+	"NodeName": "2.2.2向量的减法运算及其几何意义",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53691,
+	"NodeParentId": 2315,
+	"NodeName": "2.3.2平面向量的正交分解与坐标表示",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53695,
+	"NodeParentId": 2316,
+	"NodeName": "2.4.2平面向量数量积的坐标表示、模、夹角",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53697,
+	"NodeParentId": 2317,
+	"NodeName": "2.5.2平面向量在物理中的应用举例",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53699,
+	"NodeParentId": 2319,
+	"NodeName": "3.1.2两角和与差的正弦、余弦、正切公式",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53702,
+	"NodeParentId": 2325,
+	"NodeName": "1.1.2余弦定理",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53704,
+	"NodeParentId": 2333,
+	"NodeName": "2.5.2 数列求和",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53707,
+	"NodeParentId": 2337,
+	"NodeName": "3.3.2简单的线性规划问题",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53713,
+	"NodeParentId": 2343,
+	"NodeName": "1.1.2 四种命题",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53716,
+	"NodeParentId": 2344,
+	"NodeName": "1.2.2 充要条件",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53718,
+	"NodeParentId": 2345,
+	"NodeName": "1.3.2 或（or）",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53721,
+	"NodeParentId": 2346,
+	"NodeName": "1.4.2 存在量词",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53724,
+	"NodeParentId": 2348,
+	"NodeName": "2.1.2 椭圆的简单几何性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53726,
+	"NodeParentId": 2349,
+	"NodeName": "2.2.2 双曲线的简单几何性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53728,
+	"NodeParentId": 2350,
+	"NodeName": "2.3.2 抛物线的简单几何性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53730,
+	"NodeParentId": 2352,
+	"NodeName": "3.1.2 导数的概念",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53733,
+	"NodeParentId": 2353,
+	"NodeName": "3.2.2 基本初等函数的导数公式及导数的运算法则",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53735,
+	"NodeParentId": 2354,
+	"NodeName": "3.3.2 函数的极值与导数",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53738,
+	"NodeParentId": 2376,
+	"NodeName": "1.1.2 四种命题",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53741,
+	"NodeParentId": 2377,
+	"NodeName": "1.2.2 充要条件",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53743,
+	"NodeParentId": 2378,
+	"NodeName": "1.3.2 或（or）",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53746,
+	"NodeParentId": 2379,
+	"NodeName": "1.4.2 存在量词",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53749,
+	"NodeParentId": 2381,
+	"NodeName": "2.1.2 求曲线的方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53751,
+	"NodeParentId": 2382,
+	"NodeName": "2.1.2 椭圆的简单几何性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53753,
+	"NodeParentId": 2383,
+	"NodeName": "2.2.2 双曲线的简单几何性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53755,
+	"NodeParentId": 2384,
+	"NodeName": "2.3.2 抛物线的简单几何性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53757,
+	"NodeParentId": 2386,
+	"NodeName": "3.1.2 空间向量的数乘运算",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53762,
+	"NodeParentId": 2412,
+	"NodeName": "1.3.2 “杨辉三角”与二项式系数的性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53764,
+	"NodeParentId": 2414,
+	"NodeName": "2.1.2 离散型随机变量的分布列",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53766,
+	"NodeParentId": 2415,
+	"NodeName": "2.2.2 事件的互相独立性",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53769,
+	"NodeParentId": 2465,
+	"NodeName": "2. 平面直角坐标系中的伸缩变换",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53771,
+	"NodeParentId": 2466,
+	"NodeName": "2. 极坐标和直角坐标的互化",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53773,
+	"NodeParentId": 2467,
+	"NodeName": "2. 直线的极坐标方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53775,
+	"NodeParentId": 2469,
+	"NodeName": "2. 球坐标系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53777,
+	"NodeParentId": 2479,
+	"NodeName": "2. 圆的参数方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53780,
+	"NodeParentId": 2481,
+	"NodeName": "2. 双曲线的参数方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53783,
+	"NodeParentId": 2482,
+	"NodeName": "2. 摆线",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 2,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2480,
+	"NodeParentId": 2464,
+	"NodeName": "三 直线的参数方程",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53652,
+	"NodeParentId": 2257,
+	"NodeName": "2.1.3空间中直线与平面之间的位置关系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53655,
+	"NodeParentId": 2258,
+	"NodeName": "2.2.3直线与平面平行的性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53659,
+	"NodeParentId": 2259,
+	"NodeName": "2.3.3直线与平面垂直的性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53665,
+	"NodeParentId": 2262,
+	"NodeName": "3.2.3直线的一般方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53668,
+	"NodeParentId": 2263,
+	"NodeName": "3.3.3点到直线的距离",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53674,
+	"NodeParentId": 2266,
+	"NodeName": "4.2.3直线与圆的方程的应用",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53683,
+	"NodeParentId": 2309,
+	"NodeName": "1.4.3正切函数的性质与图像",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53686,
+	"NodeParentId": 2313,
+	"NodeName": "2.1.3相等向量与共线向量",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53689,
+	"NodeParentId": 2314,
+	"NodeName": "2.2.3向量的数乘运算及其几何意义",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53692,
+	"NodeParentId": 2315,
+	"NodeName": "2.3.3平面向量的坐标运算",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53700,
+	"NodeParentId": 2319,
+	"NodeName": "3.1.3二倍角的正弦、余弦、正切公式",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53705,
+	"NodeParentId": 2333,
+	"NodeName": "2.5.3 数列应用",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53714,
+	"NodeParentId": 2343,
+	"NodeName": "1.1.3 四种命题间的相互关系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53719,
+	"NodeParentId": 2345,
+	"NodeName": "1.3.3 非（not）",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53722,
+	"NodeParentId": 2346,
+	"NodeName": "1.4.3 含有一个量词的命题的否定",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53731,
+	"NodeParentId": 2352,
+	"NodeName": "3.1.3 导数的几何意义",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53736,
+	"NodeParentId": 2354,
+	"NodeName": "3.3.3 函数的最大（小）值与导数",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53739,
+	"NodeParentId": 2376,
+	"NodeName": "1.1.3 四种命题间的相互关系",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53744,
+	"NodeParentId": 2378,
+	"NodeName": "1.3.3 非（not）",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53747,
+	"NodeParentId": 2379,
+	"NodeName": "1.4.3 含有一个量词的命题的否定",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53758,
+	"NodeParentId": 2386,
+	"NodeName": "3.1.3 空间向量的数量积运算",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53767,
+	"NodeParentId": 2415,
+	"NodeName": "2.2.3 独立重复试验与二项分布",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53778,
+	"NodeParentId": 2479,
+	"NodeName": "3. 参数方程与普通方程的互化",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53781,
+	"NodeParentId": 2481,
+	"NodeName": "3. 抛物线的参数方程",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 3,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2482,
+	"NodeParentId": 2464,
+	"NodeName": "四 渐开线与摆线",
+	"IsHaveChild": true,
+	"NodeLevel": 4,
+	"NodeOrder": 4,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53656,
+	"NodeParentId": 2258,
+	"NodeName": "2.2.4平面与平面平行的性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 4,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53660,
+	"NodeParentId": 2259,
+	"NodeName": "2.3.4平面与平面垂直的性质",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 4,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53669,
+	"NodeParentId": 2263,
+	"NodeName": "3.4.4两条平行线间的距离",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 4,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53693,
+	"NodeParentId": 2315,
+	"NodeName": "2.3.4平面向量共线的坐标表示",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 4,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53759,
+	"NodeParentId": 2386,
+	"NodeName": "3.1.4 空间向量的正交分解及其坐标表示",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 4,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 2483,
+	"NodeParentId": 2464,
+	"NodeName": "章综合",
+	"IsHaveChild": false,
+	"NodeLevel": 4,
+	"NodeOrder": 5,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}, {
+	"NodeId": 53760,
+	"NodeParentId": 2386,
+	"NodeName": "3.1.5 空间向量运算的坐标表示",
+	"IsHaveChild": false,
+	"NodeLevel": 5,
+	"NodeOrder": 5,
+	"Count": 0,
+	"NodeCode": null,
+	"IsVisible": true
+}]
